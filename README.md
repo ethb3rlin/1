@@ -2,4 +2,4 @@
 
 Static archive of the once so dynamic ETHBerlin website.
 
-* https://ethberlin.com
+* https://2018.ethberlin.org
